@@ -7,6 +7,8 @@ void fib(int n){
     int t2 = 1;
     int nextTerm;
 
+    //Fibonacci Series: 0 1 1 2 3 5 8 13 ...
+
     for(int i=1; i<=n; i++){
         cout<<t1<<endl;
         nextTerm = t1 + t2;
