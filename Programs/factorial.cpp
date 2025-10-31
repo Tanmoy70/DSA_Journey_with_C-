@@ -11,6 +11,7 @@ int fact(int n){
     return factorial;
 }
 
+// TThis is factorial program
 int main(){
     int n;
     cin>>n;
