@@ -2,6 +2,7 @@
 #include <math.h>
 using namespace std;
 
+//Prime number checking function
 bool isPrime(int  num){
     for(int i=2;i<=sqrt(num);i++){
         if(num%i==0){
@@ -11,6 +12,7 @@ bool isPrime(int  num){
     return true;
 }
 
+//main code
 int main(){
     int a,b;
     cin>>a>>b;
