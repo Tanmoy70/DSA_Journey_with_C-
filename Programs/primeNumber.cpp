@@ -2,6 +2,7 @@
 #include<cmath>
 using namespace std;
 
+//Prime number checking function
 int main(){
     int n;
     cin>>n;
