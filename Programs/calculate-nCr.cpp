@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//Function to calculate factorial
 int fact(int n){
     int factorial= 1;
     for(int i=2;i<=n; i++){
@@ -10,6 +11,7 @@ int fact(int n){
     return factorial;
 }
 
+//Main code to calculate nCr
 int main(){
     int n, r;
     cin>>n>>r;
