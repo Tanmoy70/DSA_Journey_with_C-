@@ -2,6 +2,7 @@
 #include<math.h>
 using namespace std;
 
+//Function to calculate factorial
 int main(){
     int n;
     cin>>n;
