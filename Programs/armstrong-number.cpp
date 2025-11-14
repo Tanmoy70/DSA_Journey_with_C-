@@ -15,8 +15,6 @@ int main(){
         n=n/10;
     }
 
-    //An Armstrong number is a number that is equal to the sum of cubes of its digits
-
     if(sum==originalNumber){
         cout<<"Armstrong Number"<<endl;
     }
