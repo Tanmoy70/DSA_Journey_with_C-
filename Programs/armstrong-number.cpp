@@ -15,6 +15,8 @@ int main(){
         n=n/10;
     }
 
+    // Check if the sum of cubes of digits equals the original number
+
     if(sum==originalNumber){
         cout<<"Armstrong Number"<<endl;
     }
