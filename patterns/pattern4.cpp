@@ -14,7 +14,7 @@ using namespace std;
 //     return 0;
 // }
 
-
+// Program to print the following pattern
 int main(){
     int n;
     cin>>n;
