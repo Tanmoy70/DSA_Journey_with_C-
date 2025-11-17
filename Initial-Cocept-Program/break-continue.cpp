@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Demonstration of break and continue statementss
 int main() {
     #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
