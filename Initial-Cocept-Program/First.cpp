@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Simple program to add two numbers
 int main() {
     #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
