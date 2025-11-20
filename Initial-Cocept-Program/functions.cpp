@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// Program to find the maximum of two numbers
 int main() {
     #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
