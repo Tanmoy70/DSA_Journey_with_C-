@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Program to calculate the sum of first N natural numbers
 int main(){
     #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
