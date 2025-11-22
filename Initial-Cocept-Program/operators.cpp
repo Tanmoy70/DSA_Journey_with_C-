@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// Program to demonstrate operator precedence and associativity
 int main(){
     int i = 1;
     int j= 2;
