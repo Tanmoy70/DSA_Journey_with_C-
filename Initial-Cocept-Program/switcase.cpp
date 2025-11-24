@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Program to demonstrate switch-case statement
 int main(){
     #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
