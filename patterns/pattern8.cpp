@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// Program to print a diamond pattern
+// Program to print a diamond
 int main(){
     int n;
     cin>>n;
