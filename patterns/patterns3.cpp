@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// Program to print a specific pattern
 int main(){
     int n;
     cin>>n;
