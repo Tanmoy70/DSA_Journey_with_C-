@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Program to print a hollow rectangle star pattern
+
 // int main() {
 //     int row, col;
 //     cin >> row >> col;;
@@ -19,6 +21,7 @@ using namespace std;
 //     return 0;
 // }
 
+// Program to print a reverse right-angled triangle star pattern
 int main(){
     int n;
     cin>> n;
