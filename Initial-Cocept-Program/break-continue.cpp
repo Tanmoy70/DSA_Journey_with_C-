@@ -7,7 +7,7 @@ int main() {
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
     #endif
-
+// Program to demonstrate break and continue statements
     int n;
     cin >> n;
 
