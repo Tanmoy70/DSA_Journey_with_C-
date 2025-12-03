@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//This is the main code.
+// Program to reverse a number
 int main(){
 
     int n;
