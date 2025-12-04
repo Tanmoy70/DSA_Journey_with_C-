@@ -10,7 +10,7 @@ int sum(int n){
     return ans; 
 }
 
-//Driver code
+
 int32_t main(){
     int n;
     cin >> n;
