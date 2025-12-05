@@ -2,6 +2,7 @@
 using namespace std;
 
 // Program to print a diamond pattern
+
 int main(){
     int n;
     cin>>n;
