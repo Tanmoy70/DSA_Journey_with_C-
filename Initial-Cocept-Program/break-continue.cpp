@@ -9,7 +9,6 @@ int main() {
     #endif
 
 // Program to demonstrate break and continue statements
-
     int n;
     cin >> n;
 
