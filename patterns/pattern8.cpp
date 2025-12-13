@@ -2,7 +2,6 @@
 using namespace std;
 
 // Program to print a diamond pattern
-
 int main(){
     int n;
     cin>>n;
@@ -18,7 +17,6 @@ int main(){
     }
 
 // Lower half of the diamond
-
     for(int i=n; i>=1; i--){
         for(int j=1; j<=n-i; j++){
             cout<<" ";
