@@ -6,7 +6,7 @@ using namespace std;
 int main(){
     int row , col;
     cin>>row>>col;
-// Input: number of rows and columns
+
     for (int i = 1; i<=row; i++){
         for (int j = 1; j<=col; j++) {
             cout << "*";
