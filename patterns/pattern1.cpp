@@ -2,7 +2,6 @@
 using namespace std;
 
 // Program to print a rectangle pattern of stars
-
 int main(){
     int row , col;
     cin>>row>>col;
