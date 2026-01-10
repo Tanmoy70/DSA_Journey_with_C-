@@ -2,7 +2,6 @@
 using namespace std;
 
 //Function to check if the given triplet is a Pythogorian triplet
-
 bool check(int x, int y, int z){
     int a = max(x, max(y,z));
     int b, c;
