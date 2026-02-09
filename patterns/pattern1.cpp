@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Program to print a rectangle pattern
 int main(){
     int row , col;
     cin>>row>>col;
