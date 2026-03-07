@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Pattern 6
+
 int main(){
     int n;
     cin>>n;
