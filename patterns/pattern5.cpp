@@ -2,6 +2,7 @@
 using namespace std;
 
 // Program to print the following pattern
+
 int main(){
 
     int n;
